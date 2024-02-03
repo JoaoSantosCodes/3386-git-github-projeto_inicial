@@ -90,6 +90,11 @@ body::before {
     gap: 2em;
 }
 
+.imagem {
+   display: flex;
+   padding-left: 0;
+}
+
 h1 {
     font-family: 'Chakra Petch', sans-serif;
     font-size: 72px;
